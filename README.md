@@ -1,5 +1,7 @@
 This is a simple demo for [DVC](https://dvc.org).
 
+> [UPDATE] In 2021, we can use [DAGsHub](https://dagshub.com/) to integrate Git & DVC & MLFlow on a same platform! Go check the [getting-started page of DAGsHub](https://dagshub.com/get-started) and give it a try.
+
 ## Step by step
 
 ### Step 0: Install DVC Package
